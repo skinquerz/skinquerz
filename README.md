@@ -1,16 +1,16 @@
-### Hi there 👋
+## olá! Sou skin
 
-<!--
-**skinquerz/skinquerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📖: atualmente estou estudando python,html,css.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/skinquerz">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=skinquerz&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinquerz&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@skinquerz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/murilo.qy)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/skinquerz)
