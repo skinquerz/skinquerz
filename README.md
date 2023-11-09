@@ -1,6 +1,6 @@
 ## olá! Sou skin
 
--📖: atualmente estou estudando python.
+-📖: atualmente estou estudando Delphi.
 
 <div align="center">
   <a href="https://github.com/skinquerz">
